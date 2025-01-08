@@ -1,0 +1,7 @@
+{
+    "livePreview.customExternalBrowser": "Chrome",
+    "liveServer.settings.https": {
+        "enable": true
+    },
+    "liveServer.settings.root": ""
+}
